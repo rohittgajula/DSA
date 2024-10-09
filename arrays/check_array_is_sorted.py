@@ -24,3 +24,4 @@ def check_rotated_array(nums):
 nums = [3,4,5,1,2,9]
 print(check_array(nums))
 print(check_rotated_array(nums))
+
